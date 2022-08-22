@@ -1,1 +1,6 @@
-
+this is the script to run simulation on gershman 09's model:
+main = script to run
+prob_gershman_09 = MRF prior + likelihood function
+sampling_gershman_09 = proposal + rejection + main simulation function
+post_process: from state of each node to dominance period
+notebook: testing purpose only
